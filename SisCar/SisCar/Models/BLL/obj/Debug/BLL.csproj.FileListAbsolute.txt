@@ -1,0 +1,33 @@
+C:\Users\Itep_Cursos\Desktop\SisCar\Models\BLL\bin\Debug\BLL.dll
+C:\Users\Itep_Cursos\Desktop\SisCar\Models\BLL\bin\Debug\BLL.pdb
+C:\Users\Itep_Cursos\Desktop\SisCar\Models\BLL\bin\Debug\DAL.dll
+C:\Users\Itep_Cursos\Desktop\SisCar\Models\BLL\bin\Debug\Models.dll
+C:\Users\Itep_Cursos\Desktop\SisCar\Models\BLL\bin\Debug\DAL.pdb
+C:\Users\Itep_Cursos\Desktop\SisCar\Models\BLL\bin\Debug\Models.pdb
+C:\Users\Itep_Cursos\Desktop\SisCar\Models\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Itep_Cursos\Desktop\SisCar\Models\BLL\obj\Debug\BLL.dll
+C:\Users\Itep_Cursos\Desktop\SisCar\Models\BLL\obj\Debug\BLL.pdb
+C:\Users\itep cursos\Desktop\SisCar\Models\BLL\bin\Debug\BLL.dll
+C:\Users\itep cursos\Desktop\SisCar\Models\BLL\bin\Debug\BLL.pdb
+C:\Users\itep cursos\Desktop\SisCar\Models\BLL\bin\Debug\DAL.dll
+C:\Users\itep cursos\Desktop\SisCar\Models\BLL\bin\Debug\Models.dll
+C:\Users\itep cursos\Desktop\SisCar\Models\BLL\bin\Debug\DAL.pdb
+C:\Users\itep cursos\Desktop\SisCar\Models\BLL\bin\Debug\Models.pdb
+C:\Users\itep cursos\Desktop\SisCar\Models\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\itep cursos\Desktop\SisCar\Models\BLL\obj\Debug\BLL.dll
+C:\Users\itep cursos\Desktop\SisCar\Models\BLL\obj\Debug\BLL.pdb
+C:\Users\itep cursos\Desktop\SisCar\Models\BLL\bin\Debug\Npgsql.dll
+C:\Users\itep cursos\Desktop\SisCar\Models\BLL\bin\Debug\Mono.Security.dll
+C:\Users\ITEP-CURSOS\Desktop\SisCar\Models\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\ITEP-CURSOS\Desktop\SisCar\Models\BLL\obj\Debug\BLL.dll
+C:\Users\ITEP-CURSOS\Desktop\SisCar\Models\BLL\bin\Debug\BLL.dll
+C:\Users\ITEP-CURSOS\Desktop\SisCar\Models\BLL\bin\Debug\BLL.pdb
+C:\Users\ITEP-CURSOS\Desktop\SisCar\Models\BLL\bin\Debug\DAL.dll
+C:\Users\ITEP-CURSOS\Desktop\SisCar\Models\BLL\bin\Debug\Models.dll
+C:\Users\ITEP-CURSOS\Desktop\SisCar\Models\BLL\bin\Debug\Npgsql.dll
+C:\Users\ITEP-CURSOS\Desktop\SisCar\Models\BLL\bin\Debug\Mono.Security.dll
+C:\Users\ITEP-CURSOS\Desktop\SisCar\Models\BLL\bin\Debug\DAL.pdb
+C:\Users\ITEP-CURSOS\Desktop\SisCar\Models\BLL\bin\Debug\Models.pdb
+C:\Users\ITEP-CURSOS\Desktop\SisCar\Models\BLL\obj\Debug\BLL.pdb
+C:\Users\Itep_Cursos\Desktop\SisCar\Models\BLL\bin\Debug\Npgsql.dll
+C:\Users\Itep_Cursos\Desktop\SisCar\Models\BLL\bin\Debug\Mono.Security.dll
